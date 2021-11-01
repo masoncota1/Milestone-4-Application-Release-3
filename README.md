@@ -16,11 +16,9 @@ a.	Use of structures and unions
 3.	Complete test cases using the “Test Case Template,” located in the Course Materials that validates all functionality of the program. Positive, negative, and abuse test cases MUST be included in the assignment.
 4.	Update the technical design report with the required design documentation.
 5.	Complete a screencast, using Loom or a similar free application, that contains a technical walk through of all code and a functional demonstration of the code running on your system.
-		
-		
-		
+			
 
-GIT URL:	The GIT URL that can be used to clone your code.
+GIT URL:https://github.com/masoncota1/Milestone-4-Application-Release-3.
  
  
 Design Documentation
